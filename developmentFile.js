@@ -1,4 +1,5 @@
-const numberArray = [5, 6, 7, 8, 9, 10]
-const number = numberArray.filter(number => number % 2)
-console.log(number)
+const numberArray = [10, 20, 30, 40]
+const numerosPares = numberArray.filter(number => number % 2)
+console.log(numerosPares)
+console.log("conflito 2")
 console.log("conflitoo")
